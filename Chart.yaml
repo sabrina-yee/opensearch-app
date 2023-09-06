@@ -1,4 +1,0 @@
-dependencies:
-  - name: "opensearch"
-    version: ">0.0.0-0"
-    repository: "https://hclcr.io/chartrepo/cnx-staging"
